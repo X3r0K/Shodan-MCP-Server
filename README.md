@@ -34,7 +34,7 @@ CVE Information: Get details about specific CVE vulnerabilities
 1.  Clone the repository:
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/X3r0K/Shodan-MCP-Server.git
     cd shodan-mcp-server
     ```
 
